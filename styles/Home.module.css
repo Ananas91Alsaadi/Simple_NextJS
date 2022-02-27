@@ -39,6 +39,14 @@
   text-decoration: underline;
 }
 
+.single{
+  color: #f0f;
+}
+.single:hover {
+  color: #222;
+
+}
+
 .title {
   margin: 0;
   line-height: 1.15;
